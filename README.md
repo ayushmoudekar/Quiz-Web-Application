@@ -13,8 +13,8 @@ Project Overview : Quiz Web Application
 Technology Used : HTML , CSS & JAVASCRIPT
 
 Output : 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Quiz-Web-Application/blob/0d466a8a7ccdc048d0caee399eded71488df0e66/Output%201.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Quiz-Web-Application/blob/0d466a8a7ccdc048d0caee399eded71488df0e66/Output%202.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Quiz-Web-Application/blob/0d466a8a7ccdc048d0caee399eded71488df0e66/Output%203.png)
